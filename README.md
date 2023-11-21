@@ -1,4 +1,4 @@
-# Contract-Samples
+# Solidity-Basic-Tutorial
 
 # Introduction
 
