@@ -15,3 +15,8 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 7. Global Variables
 8. View Keyword
 9. Pure Keyword
+10. Event Ticket (Selling tickets and collecting money)
+11. Constant
+12. If...Else
+13. While Loop
+14. Do...While Loop
