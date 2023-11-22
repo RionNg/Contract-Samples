@@ -16,5 +16,4 @@ contract MyContract {
         hello = _hello;
         number = _number;
     }
-
 }
