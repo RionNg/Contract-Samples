@@ -20,3 +20,10 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 12. If...Else
 13. While Loop
 14. Do...While Loop
+15. For Loop
+16. "Require" Error Handler
+17. "Assert" Error Handler
+18. "Revert" Error Handler
+19. Function Modifier
+20. Constructor
+21. Mapping & Nested Mapping
