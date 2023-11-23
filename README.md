@@ -27,3 +27,6 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 19. Function Modifier
 20. Constructor
 21. Mapping & Nested Mapping
+22. Array
+23. Array Remove
+24. Array Replace From End
