@@ -38,5 +38,7 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 30. Inheritance 'is' Keyword
 31. Shadowing Inherited State Variables
 32. 'super' Keyword
-33. Visibility
-34. Interface
+33. Visibility - 'public', 'private', 'internal', 'external'
+34. 'interface' Keyword
+35. 'payable' Keyword
+36. Sending Ether
