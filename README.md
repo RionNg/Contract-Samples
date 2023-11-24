@@ -28,7 +28,7 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 20. Constructor
 21. Mapping & Nested Mapping
 22. Array
-23. Array Remove
+23. Array Remove by Shifting
 24. Array Replace From End
 25. Enum
 26. Struct
@@ -36,3 +36,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 28. More Functions (Advanced)
 29. Events
 30. Inheritance 'is' Keyword
+31. Shadowing Inherited State Variables
