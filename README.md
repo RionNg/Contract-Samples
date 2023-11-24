@@ -39,3 +39,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 31. Shadowing Inherited State Variables
 32. 'super' Keyword
 33. Visibility
+34. Interface
