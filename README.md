@@ -9,7 +9,7 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 1. Starter
 2. Counter
 3. Data Types
-4. Function Keyword
+4. Function Keyword (Basic)
 5. State Variables
 6. Local Variables
 7. Global Variables
