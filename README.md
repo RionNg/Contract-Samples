@@ -30,3 +30,8 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 22. Array
 23. Array Remove
 24. Array Replace From End
+25. Enum
+26. Struct
+27. Data Locations
+28. More Functions (Advanced)
+29. Events
