@@ -38,3 +38,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 30. Inheritance 'is' Keyword
 31. Shadowing Inherited State Variables
 32. 'super' Keyword
+33. Visibility
