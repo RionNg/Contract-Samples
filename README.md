@@ -35,3 +35,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 27. Data Locations
 28. More Functions (Advanced)
 29. Events
+30. Inheritance 'is' Keyword
