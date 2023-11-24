@@ -9,21 +9,21 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 1. Starter
 2. Counter
 3. Data Types
-4. Function Keyword (Basic)
+4. 'function' Keyword (Basic)
 5. State Variables
 6. Local Variables
 7. Global Variables
-8. View Keyword
-9. Pure Keyword
+8. 'view' Keyword
+9. 'pure' Keyword
 10. Event Ticket (Selling tickets and collecting money)
 11. Constant
 12. If...Else
 13. While Loop
 14. Do...While Loop
 15. For Loop
-16. "Require" Error Handler
-17. "Assert" Error Handler
-18. "Revert" Error Handler
+16. 'Require' Error Handler
+17. 'Assert' Error Handler
+18. 'Revert' Error Handler
 19. Function Modifier
 20. Constructor
 21. Mapping & Nested Mapping
@@ -37,3 +37,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 29. Events
 30. Inheritance 'is' Keyword
 31. Shadowing Inherited State Variables
+32. 'super' Keyword
