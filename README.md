@@ -32,7 +32,7 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 24. Array Replace From End
 25. 'enum' Keyword
 26. 'struct' keyword
-27. Data Locations
+27. Data Locations - 'memory', 'calldata', 'storage'
 28. More Functions (Advanced)
 29. 'event' Keyword
 30. Inheritance 'is' Keyword
