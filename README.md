@@ -46,4 +46,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 38. Call Function
 39. Delegatecall
 40. Calling other contract
-41. Contract that Creates other Contracts
+41. Contract that Creates other Contracts (Car Factory Contract)
