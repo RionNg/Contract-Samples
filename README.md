@@ -47,3 +47,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 39. Delegatecall
 40. Calling other contract
 41. Contract that Creates other Contracts (Car Factory Contract)
+42. 'try' / 'catch' Keywords
