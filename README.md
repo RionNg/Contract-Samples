@@ -42,3 +42,6 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 34. 'interface' Keyword
 35. 'payable' Keyword
 36. Sending Ether
+37. 'fallback' Keyword
+38. Call Function
+39. Delegatecall
