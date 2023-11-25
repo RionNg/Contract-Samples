@@ -48,3 +48,6 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 40. Calling other contract
 41. Contract that Creates other Contracts (Car Factory Contract)
 42. 'try' / 'catch' Keywords
+43. Library
+44. ABI Encode
+45. ABI Decode
