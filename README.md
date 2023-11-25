@@ -45,3 +45,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 37. 'fallback' Keyword
 38. Call Function
 39. Delegatecall
+40. Calling other contract
