@@ -6,10 +6,9 @@ contract AssertStatement {
 
     bool result;
 
-    function checkOverflow(
-        uint256 _number1,
-        uint256 _number2
-    ) public {
+    function checkOverflow(uint256 _number1, uint256 _number2)
+        public
+    {
         uint256 sum = _number1 + _number2;
         assert(sum <= 255);
         result = true;
