@@ -13,7 +13,8 @@ contract WhileLoop {
     uint8 a = 0;
 
     function loop() public returns(uint256[] memory) {
-        while(a < 5) {
+        while(a < 5)
+        {
             a++;
             data.push(a);
         }
