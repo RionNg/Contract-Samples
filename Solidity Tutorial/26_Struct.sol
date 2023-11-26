@@ -31,9 +31,7 @@ contract Todos {
 
     // Solidity automatically created a getter for 'todos',
     // so you don't actually need this function.
-    function get(
-        uint256 _index
-        )
+    function get(uint256 _index)
             public
             view
             returns (
