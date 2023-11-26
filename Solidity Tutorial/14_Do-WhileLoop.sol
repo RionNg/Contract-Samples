@@ -13,7 +13,7 @@ contract DoWhileLoop {
     uint8 a = 0;
 
     function loop() public returns(uint256[] memory) {
-        do{
+        do {
             a++;
             data.push(a);
         } while(a < 5);
