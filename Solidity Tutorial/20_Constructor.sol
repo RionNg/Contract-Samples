@@ -31,6 +31,7 @@ contract Y {
 // Pass the parameters here in the inheritance list.
 contract B is X("Input to X"), Y("Input to Y") {}
 
+
 contract C is X, Y {
     // Pass the parameters here in the constructor,
     // similar to the function modifier.
