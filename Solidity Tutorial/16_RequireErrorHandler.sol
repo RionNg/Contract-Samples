@@ -8,10 +8,7 @@ contract Require {
     function checkInput(
         uint256 _input
     )
-        public pure returns
-    (
-        string memory
-    )
+        public pure returns(string memory)
     {
         require(_input >= 0, "Invalid uint8");
         require(_input <= 255, "Invalid uint256");
