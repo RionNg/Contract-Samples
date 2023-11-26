@@ -5,6 +5,7 @@ pragma solidity ^0.8.0;
     // Construction is basically an optional function
     // Which can only be executed at the time of contract creation
 
+
 // Base contraxt X (Parent Contract)
 contract X {
     string public name;
@@ -13,6 +14,7 @@ contract X {
         name = _name;
     }
 }
+
 
 // Base contract Y (Parent Contract)
 contract Y {
@@ -41,6 +43,7 @@ contract C is X, Y {
     {}
 }
 
+
 // Parent constructors are always called IN THE ORDER of inheritance
 // Regardless of the order of parent contracts listed in the constructor of the child contract.
 
@@ -51,6 +54,7 @@ contract C is X, Y {
 contract D is X, Y {
     constructor() X("X was called") Y("Y was called") {}
 }
+
 
 // Order of constructors called:
 // 1. X
