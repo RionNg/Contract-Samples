@@ -10,8 +10,7 @@ contract StateVariables {
     // Updating the state variables with constructor
     constructor(
         string memory _myString,
-        uint256 _myUint256
-        )
+        uint256 _myUint256)
     {
         myString = _myString;
         myUint256 = _myUint256;
