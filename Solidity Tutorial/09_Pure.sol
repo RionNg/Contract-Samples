@@ -10,7 +10,8 @@ contract Pure {
     // To declare functions that don't read from or modify the state of the contract
     // They only perform computations based on their input parameters and return a value
     // Beneficial for gas optimization
-    function getTotal() public pure returns(uint256 product, uint256 total) {
+    function getTotal() public pure returns(uint256 product, uint256 total)
+    {
         uint256 num1 = 5;
         uint256 num2 = 9;
 
@@ -19,7 +20,8 @@ contract Pure {
         return (product, total);
     }
 
-    function getData() public view returns(uint256 product, uint256 total) {
+    function getData() public view returns(uint256 product, uint256 total)
+    {
         uint256 num1 = 5;
         uint256 num2 = 9;
 
