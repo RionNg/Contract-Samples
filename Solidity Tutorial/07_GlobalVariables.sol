@@ -20,7 +20,6 @@ contract GlobalVariables {
 
     constructor() payable {
         owner = msg.sender;
-
         Myblockhash = block.coinbase;
         origin = tx.origin;
         difficulty = block.difficulty;
