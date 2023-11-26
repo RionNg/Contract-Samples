@@ -8,13 +8,9 @@ contract IfElse {
     string public myString;
 
     // Update state variables using "if...else" statement
-    function get(
-        uint256 _myUint256
-    )
-        public returns
-    (
-        string memory
-    )
+    function get(uint256 _myUint256)
+        public
+        returns(string memory)
     {
         if(_myUint256 == 5) {
             myString = "The value of myUint256 is correct";
@@ -24,13 +20,9 @@ contract IfElse {
         return myString;
     }
 
-    function shortHand(
-        uint256 _number
-    )
-        public returns
-    (
-        string memory
-    )
+    function shortHand(uint256 _number)
+        public
+        returns(string memory)
     {
         return _number == 5
         ? myString = "The value is correct"
