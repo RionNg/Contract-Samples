@@ -12,7 +12,7 @@ contract MyContract {
     //     number = _number;
     // }
 
-    function addInfo(string memory _hello,uint256 _number)
+    function addInfo(string memory _hello, uint256 _number)
         public
     {
         hello = _hello;
