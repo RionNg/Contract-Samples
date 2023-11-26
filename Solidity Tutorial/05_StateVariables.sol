@@ -11,7 +11,7 @@ contract StateVariables {
     constructor(
         string memory _myString,
         uint256 _myUint256
-    )
+        )
     {
         myString = _myString;
         myUint256 = _myUint256;
@@ -28,7 +28,7 @@ contract StateVariables {
     function updateInfo(
         string memory _myString,
         uint256 _myUint256
-    )
+        )
         public
     {
         myString = _myString;
