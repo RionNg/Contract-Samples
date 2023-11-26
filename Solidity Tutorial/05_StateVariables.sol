@@ -28,8 +28,7 @@ contract StateVariables {
     function updateInfo(
         string memory _myString,
         uint256 _myUint256
-        )
-        public
+        ) public
     {
         myString = _myString;
         myUint256 = _myUint256;
