@@ -18,9 +18,9 @@ contract Receiver {
         string memory _message, 
         uint256 _x
         ) 
-        public 
-        payable 
-        returns(uint256) 
+            public 
+            payable 
+            returns(uint256) 
     {
         emit Received(msg.sender, msg.value, _message);
         return _x + 1;
