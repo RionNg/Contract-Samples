@@ -8,7 +8,8 @@ contract HashFunction {
         string memory _text,
         uint256 _num,
         address _addr
-    ) public pure returns(bytes32)
+        )
+            public pure returns(bytes32)
     {
         return keccak256(abi.encodePacked(_text, _num, _addr));
     }
