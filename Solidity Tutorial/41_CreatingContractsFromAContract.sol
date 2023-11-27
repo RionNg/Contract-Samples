@@ -29,7 +29,8 @@ contract CarFactory {
     function createAndSendEther(
         address _owner, 
         string memory _model
-        ) public payable
+        )
+            public payable
     {
         Car car = (new Car){value: msg.value}(_owner, _model);
         cars.push(car);
