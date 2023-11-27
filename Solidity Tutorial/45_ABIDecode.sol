@@ -14,10 +14,10 @@ contract ABIDecode {
         address addr,
         uint256[] calldata array,
         MyStruct calldata myStruct
-    )
-        external 
-        pure 
-        returns(bytes memory)
+        )
+            external 
+            pure 
+            returns(bytes memory)
     {
         return abi.encode(x, addr, array, myStruct);
     }
