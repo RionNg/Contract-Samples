@@ -30,7 +30,11 @@ contract FunctionModifier {
         }
 
     // Transfer the ownership of the contract
-    function changeOwner(address _newOwner) public onlyOwner validateData(_newOwner) {
+    function changeOwner(address _newOwner)
+        public
+        onlyOwner
+        validateData(_newOwner)
+    {
         owner = _newOwner;
     }
 
