@@ -19,7 +19,6 @@ contract Foo {
     }
 }
 
-
 contract Bar {
 
     event Log(string message);
