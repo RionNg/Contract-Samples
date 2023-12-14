@@ -19,7 +19,6 @@ library Math {
     }
 }
 
-
 contract TestMath {
 
     function testSquareRoot(uint256 x) public pure returns(uint256) {
@@ -39,7 +38,6 @@ library Array {
         array.pop();
     }
 }
-
 
 contract TestArray {
 
