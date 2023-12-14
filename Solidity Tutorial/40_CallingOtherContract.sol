@@ -23,7 +23,6 @@ contract Callee {
     }
 }
 
-
 contract Caller {
 
     function setX(Callee _callee, uint256 _x) public {
