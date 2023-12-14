@@ -16,7 +16,6 @@ contract B {
     }
 }
 
-
 contract A {
     uint256 public number;
     address public sender;
