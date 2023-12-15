@@ -28,7 +28,6 @@ contract HashFunction {
     }
 }
 
-
 contract GuessTheMagicWord {
     bytes32 public answer =
         0x60298f78cc0b47170ba79c10aa3851d7648bd96f2f8e46a19dbc777c37fb0c00;
