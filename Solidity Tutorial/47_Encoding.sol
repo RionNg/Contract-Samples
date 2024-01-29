@@ -5,6 +5,7 @@ pragma solidity ^0.8.7;
 contract Encoding {
     function combineStrings() public pure returns(string memory) {
         return string(abi.encodePacked("Hi there! ", "How are you?"));
+        // return string.concat("Hi there! ", "How are you?");
     }
 
     // When we send a transaction, it is "compiled" down to bytecode and sent in a "data" object of the transaction.
