@@ -52,4 +52,4 @@ Simple-to-understand Solidity smart contracts for educational purposes.
 44. ABI Encode
 45. ABI Decode
 46. Keccak256
-47. EVM Opcodes, Encoding, and Calling
+47. Encoding
